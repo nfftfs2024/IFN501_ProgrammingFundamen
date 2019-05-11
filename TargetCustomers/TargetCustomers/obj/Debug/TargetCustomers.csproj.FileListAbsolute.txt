@@ -1,0 +1,12 @@
+D:\Desktop\501 Assess\TargetCustomers\TargetCustomers\bin\Debug\TargetCustomers.exe.config
+D:\Desktop\501 Assess\TargetCustomers\TargetCustomers\bin\Debug\TargetCustomers.exe
+D:\Desktop\501 Assess\TargetCustomers\TargetCustomers\bin\Debug\TargetCustomers.pdb
+D:\Desktop\501 Assess\TargetCustomers\TargetCustomers\obj\Debug\TargetCustomers.csprojResolveAssemblyReference.cache
+D:\Desktop\501 Assess\TargetCustomers\TargetCustomers\obj\Debug\TargetCustomers.exe
+D:\Desktop\501 Assess\TargetCustomers\TargetCustomers\obj\Debug\TargetCustomers.pdb
+D:\Desktop\TargetCustomers\TargetCustomers\bin\Debug\TargetCustomers.exe.config
+D:\Desktop\TargetCustomers\TargetCustomers\bin\Debug\TargetCustomers.exe
+D:\Desktop\TargetCustomers\TargetCustomers\bin\Debug\TargetCustomers.pdb
+D:\Desktop\TargetCustomers\TargetCustomers\obj\Debug\TargetCustomers.csprojResolveAssemblyReference.cache
+D:\Desktop\TargetCustomers\TargetCustomers\obj\Debug\TargetCustomers.exe
+D:\Desktop\TargetCustomers\TargetCustomers\obj\Debug\TargetCustomers.pdb

@@ -1,0 +1,6 @@
+D:\Desktop\505 Assignment 2\MinDistance\MinDistance\obj\Debug\MinDistance.csprojResolveAssemblyReference.cache
+D:\Desktop\505 Assignment 2\MinDistance\MinDistance\bin\Debug\MinDistance.exe.config
+D:\Desktop\505 Assignment 2\MinDistance\MinDistance\bin\Debug\MinDistance.exe
+D:\Desktop\505 Assignment 2\MinDistance\MinDistance\bin\Debug\MinDistance.pdb
+D:\Desktop\505 Assignment 2\MinDistance\MinDistance\obj\Debug\MinDistance.exe
+D:\Desktop\505 Assignment 2\MinDistance\MinDistance\obj\Debug\MinDistance.pdb

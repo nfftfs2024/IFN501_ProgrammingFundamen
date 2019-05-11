@@ -1,0 +1,6 @@
+D:\Desktop\501 Assess\LengthHypotenuse\LengthHypotenuse\bin\Debug\LengthHypotenuse.exe.config
+D:\Desktop\501 Assess\LengthHypotenuse\LengthHypotenuse\bin\Debug\LengthHypotenuse.exe
+D:\Desktop\501 Assess\LengthHypotenuse\LengthHypotenuse\bin\Debug\LengthHypotenuse.pdb
+D:\Desktop\501 Assess\LengthHypotenuse\LengthHypotenuse\obj\Debug\LengthHypotenuse.csprojResolveAssemblyReference.cache
+D:\Desktop\501 Assess\LengthHypotenuse\LengthHypotenuse\obj\Debug\LengthHypotenuse.exe
+D:\Desktop\501 Assess\LengthHypotenuse\LengthHypotenuse\obj\Debug\LengthHypotenuse.pdb
